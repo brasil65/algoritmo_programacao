@@ -26,4 +26,4 @@ Este projeto é um sistema via terminal para atendimento em uma pequena lanchone
 3. Abra o terminal (ou o terminal integrado do VS Code) e navegue até o diretório onde o arquivo principal está localizado.
 4. Execute o programa digitando o seguinte comando:
    ```bash
-   python3 nome_do_arquivo.py
+   python3 trabalho_final.py

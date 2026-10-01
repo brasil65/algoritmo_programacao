@@ -1,7 +1,7 @@
 # Sistema de Atendimento e Pedidos em Python
 
 ## 1. Nome do Estudante
-Frederico Brasil
+Frederico Brasil Pereira Santana
 
 ## 2. Nome da Disciplina
 Algoritmos e Programação - Análise e Desenvolvimento de Sistemas (Unilavras)
